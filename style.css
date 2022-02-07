@@ -1,0 +1,74 @@
+header{
+    background-color: #264653;
+    overflow: hidden;
+}
+
+.common_btn {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 30px;
+    background-color: #E76F51;
+    border: 1px solid #E76F51;
+    border-radius: 6px;
+}
+
+.common_btn:hover {
+    color: #E76F51;
+    background-color: #fff;
+    border: 1px solid #E76F51;
+    border-radius: 6px;
+}
+
+.header_left{
+    max-width: 550px;
+}
+
+.bkies_section {
+    padding: 150px 15px;
+    overflow: hidden;
+}
+
+.bike_images img {
+    width: 200px;
+}
+
+.bkies_section p {
+    margin-bottom: 100px;
+}
+
+.testimonials{
+    padding: 50px 15px;
+}
+
+.testimonials img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+.testimonials .card {
+    padding: 50px;
+    margin: 0 20px;
+}
+
+.testimonials h2{
+    margin-bottom: 100px;
+}
+
+.testimonials p{
+    margin-bottom: 10px;
+}
+
+.faq {
+    padding: 50px 15px;
+    overflow: hidden;
+}
+
+.faq img {
+    width: 400px;
+}
+
+.faq h3{
+    margin-bottom: 100px;
+}
